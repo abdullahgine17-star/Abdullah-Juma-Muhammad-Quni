@@ -1,0 +1,6 @@
+{
+  "name": "CodeCraft Studio",
+  "description": "Professional Android IDE app with code editor, project tree, terminal, logcat, build engine simulation, wireless ADB, SDK manager, git status, search/replace, and AI coding assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
